@@ -1,0 +1,23 @@
+Version Control - Git Lecture Stanford
+
+Version Control is IMPORTANT
+- Example is google docs. Real time collaboration for rich text
+
+Git
+- Version control that tracks commits of files in a repository
+- Stores old versions of files in hidden folders (.git) and auto manages them
+- Tell git to track certain files and when to snapshot
+- Use git to go back to old snapshots or parts of old snapshots
+- You can use git to track who’s working on what and multiple people can work on stuff without competing
+
+Git (why it’s better than google docs ts)
+- Great at workin with code
+- Checkpoints are manual instead of automatic
+- No internet connection
+- Multiple current version of a project
+
+Git Workflows:
+- Linear Flow
+- Branching Flow
+
+Git Commands
